@@ -12,7 +12,7 @@ Developed entirely solo while learning UE5, this project was built using C++ and
 
 While the visuals may be a bit rough, this was a deliberate tradeoff: all assets were either free, dirt-cheap, or AI-generated, allowing full focus on gameplay systems, performance, and architecture. The result is a functional, scalable prototype that proves strong mechanics don't need a triple-A budget.
 
-The goal of this document is to showcase key gameplay systems, architectural decisions, and engineering practices behind the project. Due to the a few paid assets, i cannot legally make it public, but I can share any further details about the project upon request.
+The goal of this document is to showcase key gameplay systems, architectural decisions, and engineering practices behind the project. Due to the a few paid assets, i cannot legally make it public, but I can share any further details about the project upon request. *Paid assets are purely visual/audio and do not affect the engineering work.*
 
 ---
 
